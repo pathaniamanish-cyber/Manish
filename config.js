@@ -5,7 +5,7 @@ self.APP_CONFIG = {
   ownerName: "Manish",
   version: "1.0.0",
   storagePrefix: "mmm",
-  googleClientId: "", // e.g. 123456-abc.apps.googleusercontent.com
+    googleClientId: "238510172848-nfdbjsrnn4figvgfiisl72hv8f5pfddd.apps.googleusercontent.com",
   sheetTitle: "Manish Expense Manager - Data",
   receiptsFolder: "Manish Expense Manager - Receipts",
   timeZone: "America/Toronto",
